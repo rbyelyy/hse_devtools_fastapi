@@ -15,3 +15,6 @@ API на Fast API для домашнего задания  - "Клинике н
 
 ## OpenAPI service documentation
 - Documentation is located here - /../fast_api/api.yaml
+
+## Author
+ - Roman Byelyy (Роман Белый)
