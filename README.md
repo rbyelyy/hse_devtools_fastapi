@@ -1,7 +1,7 @@
-# HSE Fast API Home Work for DevTools
+# HSE Fast API Homework for DevTools
 API на Fast API для домашнего задания  - "Клинике необходим микросервис для хранения и обновления информации для собак!"
 
-## Following endpouts are supported:
+## The following endpoints are supported:
  - Root
  - Get Post
  - Get Dogs
